@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/OOP/Basic/vector",
-      "program": "/workspaces/OOP/Basic/vector/build/Debug/outDebug",
+      "cwd": "/workspaces/OOP/Basic",
+      "program": "/workspaces/OOP/Basic/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
